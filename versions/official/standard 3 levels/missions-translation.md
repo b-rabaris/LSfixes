@@ -8,6 +8,8 @@
 
 ### SCENARIO ONE: THE ASSASSINS (убийцы).
 
+[сканер крупно](../images/screens/mission-1-map.png "сканер в масштабе 2:1")
+
 ![map](../images/screens/mission-1-map-preview.png)
 [![map](../images/screens/mission-1-map-preview.png "показать сканер крупным планом, с отображением окон")](../images/screens/mission-1-map-windows.png)
 
@@ -22,6 +24,8 @@ _Советую Вам не высаживать десант между дво�
 
 ### SCENARIO TWO: MOONBASE ASSAULT (штурм лунной базы).
 
+[сканер крупно](../images/screens/mission-2-map.png "сканер в масштабе 2:1")
+
 ![map](../images/screens/mission-2-map-preview.png)
 
 Это, пожалуй, самый интересный уровень, особенно для игры вдвоем.
@@ -34,6 +38,8 @@ _Обратите внимание на то, что стены лунной б�
 ---
 
 ### SCENARIO THREE: RESCUE FROM THE MINES (спасение из шахт).
+
+[сканер крупно](../images/screens/mission-3-map.png "сканер в масштабе 2:1")
 
 ![map](../images/screens/mission-3-map-preview.png)
 
