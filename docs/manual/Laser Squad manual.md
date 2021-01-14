@@ -86,7 +86,7 @@ Laser Squad is controlled via a series of menus which are simply lists of differ
 
 Fig.1
 
-![Fig.1](../../versions/official/images/figure-1.gif "Select mode display")
+![Fig.1](../../versions/official/images/figure-1.png "Select mode display")
 
 In Select mode the message display on the right of the screen shows essential information about the unit you have selected (see fig. 1). Most important is the number of Action Points remaining and the direction indicator which shows which direction the unit is facing. Once you have selected a unit then the directional controls are used to move the unit as follows:
 
@@ -145,7 +145,7 @@ The following menu options are available in select mode:
 
 Fig.2
 
-![Fig.2](../../versions/official/images/figure-2.gif "Fire mode display")
+![Fig.2](../../versions/official/images/figure-2.png "Fire mode display")
 
 When you select the FIRE option the main display will change from a perspective map to a Line of Fire map which shows all the terrain that blocks shooting or throwing. All units are replaced with a blob depicting the target area of each unit. The square cursor is replaced by a flashing cross-hair cursor for targeting shots. The information display on the right shows the weapon being used and the essential information for ranged combat (see fig. 2). In order to fire a weapon move the cross-hair cursor to the desired target point, press FIRE to display the fire mode menu and select the type of shot you require. You will not be able to fire a shot if the cursor is outside the unit's field of vision.
 
